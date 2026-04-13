@@ -10,22 +10,21 @@ single day.
 
 ## 🚀 About Me
 
--   🎓 Computer Science Engineering student\
--   💻 Currently learning **C++ and Data Structures & Algorithms**\
+-   🎓 Computer Science Engineering student
+-   💻 Currently learning **C++ and Data Structures & Algorithms**
 -   🧠 Interested in:
-    -   AI / Machine Learning\
-    -   Systems & Software Development\
-    -   Mathematics & Problem Solving\
-    -   Startups & Entrepreneurship\
--   🌱 Focused on becoming better at **coding, communication, and
-    thinking**
+    -   AI / Machine Learning
+    -   Systems & Software Development
+    -   Mathematics & Problem Solving
+    -   Startups & Entrepreneurship
+-   🌱 Focused on becoming better every day.
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   **Languages:** C++, C (basics), Python (learning)\
--   **Tools:** VS Code, Git, Linux\
+-   **Languages:** C++, C, Python
+-   **Tools:** VS Code, Git, Linux
 -   **Platforms:** LeetCode, GitHub
 
 ------------------------------------------------------------------------
@@ -35,7 +34,6 @@ single day.
 -   Master **DSA fundamentals**
 -   Build strong **problem-solving skills**
 -   Start creating **real-world projects**
--   Improve **communication & articulation**
 
 ------------------------------------------------------------------------
 
@@ -49,26 +47,13 @@ single day.
 
 ## 📊 GitHub Stats
 
-(Add later using GitHub Readme Stats)
+Coming Soon...
 
 ------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
--   LinkedIn: (Add your link)\
--   GitHub: (Already here)
+-   LinkedIn: https://www.linkedin.com/in/siddhant-gosavi-x7/
+-   X: https://x.com/siddhantgosavi0
 
 ------------------------------------------------------------------------
-
-## ✨ Philosophy
-
-> "Consistency compounds.\
-> Small steps, repeated daily, become something powerful."
-
-------------------------------------------------------------------------
-
-## 🔥 Future Vision
-
-To build meaningful technology,\
-solve real problems,\
-and create something of my own.
