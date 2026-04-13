@@ -10,13 +10,13 @@ single day.
 
 ## 🚀 About Me
 
--   🎓 Computer Science Engineering student\
--   💻 Currently learning **C++ and Data Structures & Algorithms**\
+-   🎓 Computer Science Engineering student
+-   💻 Currently learning **C++ and Data Structures & Algorithms**
 -   🧠 Interested in:
-    -   AI / Machine Learning\
-    -   Systems & Software Development\
-    -   Mathematics & Problem Solving\
-    -   Startups & Entrepreneurship\
+    -   AI / Machine Learning
+    -   Systems & Software Development
+    -   Mathematics & Problem Solving
+    -   Startups & Entrepreneurship
 -   🌱 Focused on becoming better **every day**
 
 ------------------------------------------------------------------------
